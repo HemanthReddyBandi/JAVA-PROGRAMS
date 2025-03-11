@@ -1,0 +1,7 @@
+class firstjavaprogram
+{
+	public static void main(String[]args)
+	 {
+ 		System.out.println("hello,congratulations it's executed");
+	 }
+ }
